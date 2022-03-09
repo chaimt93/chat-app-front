@@ -1,0 +1,14 @@
+@import "typography/typography", "quasar.variables";
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+::placeholder {
+  color: $purple;
+}
+
+*{
+  font-family: 'Assistant', sans-serif;
+}
